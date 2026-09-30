@@ -1,0 +1,33 @@
+{
+  "name": "ghrepo-watch",
+  "version": "1.0.0",
+  "description": "Free CLI to track GitHub releases, activity and maintenance. Free quota, then Hobby $9/mo in USDC.",
+  "type": "module",
+  "bin": {
+    "ghrepo-watch": "bin.js"
+  },
+  "files": [
+    "bin.js",
+    "README.md"
+  ],
+  "keywords": [
+    "github",
+    "releases",
+    "cli",
+    "maintenance",
+    "dependencies",
+    "monitor",
+    "x402",
+    "usdc",
+    "ai-agents"
+  ],
+  "license": "MIT",
+  "homepage": "https://github-intel.contentforge-press.workers.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contentforge-press/github-repo-change-intelligence.git"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
